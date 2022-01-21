@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Mentoring-HTML-CSS.<br/>
 
 ## Name: Inessa Modina<br/>
@@ -16,4 +14,3 @@
     Hard worker<br/>
 
 _Cherry-pick edition_
->>>>>>> 2aa135e (Cherry-pick readme)
